@@ -1,0 +1,16 @@
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.Form1.resources
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.csproj.GenerateResource.cache
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.AssemblyInfoInputs.cache
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.AssemblyInfo.cs
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.csproj.CoreCompileInputs.cache
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\bin\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.exe
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\bin\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.deps.json
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\bin\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.runtimeconfig.json
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\bin\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.dll
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\bin\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.pdb
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.dll
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\refint\ECE2310_DistanceConverter_WindowsForm.dll
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.pdb
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ECE2310_DistanceConverter_WindowsForm.genruntimeconfig.cache
+D:\CPP\ECE2310-OOP\ECE2310_DistanceConverter_WindowsForm\obj\Debug\net8.0-windows\ref\ECE2310_DistanceConverter_WindowsForm.dll

@@ -1,0 +1,16 @@
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\bin\Debug\net8.0-windows\ECE2310_AdditionCalculator.exe
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\bin\Debug\net8.0-windows\ECE2310_AdditionCalculator.deps.json
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\bin\Debug\net8.0-windows\ECE2310_AdditionCalculator.runtimeconfig.json
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\bin\Debug\net8.0-windows\ECE2310_AdditionCalculator.dll
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\bin\Debug\net8.0-windows\ECE2310_AdditionCalculator.pdb
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ECE2310_AdditionCalculator.Form1.resources
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ECE2310_AdditionCalculator.csproj.GenerateResource.cache
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ECE2310_AdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ECE2310_AdditionCalculator.AssemblyInfoInputs.cache
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ECE2310_AdditionCalculator.AssemblyInfo.cs
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ECE2310_AdditionCalculator.csproj.CoreCompileInputs.cache
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ECE2310_AdditionCalculator.dll
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\refint\ECE2310_AdditionCalculator.dll
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ECE2310_AdditionCalculator.pdb
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ECE2310_AdditionCalculator.genruntimeconfig.cache
+D:\CPP\ECE2310-OOP\ECE2310_AdditionCalculator\obj\Debug\net8.0-windows\ref\ECE2310_AdditionCalculator.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ECE2310_AdditionCalculator/1.0.0": {
+        "runtime": {
+          "ECE2310_AdditionCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECE2310_AdditionCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
